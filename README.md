@@ -1,9 +1,9 @@
 # Codewars
-This repository is a collection of my solutions to daily code challenges from <a href="https://www.codewars.com/">Codewars</a>. It is organized by levels or "kyu" - the lower the kyu number, the harder the challenge. Currently in the top 39% globally, pushing solutions every day.
+This repository is a collection of my solutions to daily code challenges from <a href="https://www.codewars.com/">Codewars</a>. It is organized by levels or "kyu" - the lower the kyu number, the harder the challenge. Currently in the top 31% globally, pushing solutions every day.
 
 **Link to profile:** https://www.codewars.com/users/mfscifly
 
-<img src="/codewars-screenshot.png" alt="codewars snapshot" height="300px">
+![codwars recording](https://github.com/mfscifly/codewars/assets/138173334/c5b878fa-6d6e-4954-8860-cbe989083ac7)
 
 ## How It's Made:
 
