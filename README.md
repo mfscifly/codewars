@@ -3,7 +3,7 @@ This repository is a collection of my solutions to daily code challenges from <a
 
 **Link to profile:** https://www.codewars.com/users/mfscifly
 
-![codwars recording](https://github.com/mfscifly/codewars/assets/138173334/c5b878fa-6d6e-4954-8860-cbe989083ac7)
+![codewars recording](https://github.com/mfscifly/codewars/assets/138173334/edc13675-2c3e-4ac8-a27c-9a9c46a2f47e)
 
 ## How It's Made:
 
