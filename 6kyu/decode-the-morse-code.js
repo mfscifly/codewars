@@ -36,7 +36,7 @@ decodeMorse = function(morseCode){
                                      .map(letter => MORSE_CODE[letter]) //map letters to Morse code
                                      .join('')) //join letters into words
                     .join(' ') //join words into sentences
-                    .trim(' '); //trim excess spaces
+                    .trim(); //trim excess spaces
 }
 
 
