@@ -1,5 +1,5 @@
 # Codewars
-This repository is a collection of my solutions to daily code challenges from <a href="https://www.codewars.com/">Codewars</a>. It is organized by levels or "kyu" - the lower the kyu number, the harder the challenge. Currently in the top 31% globally, pushing solutions every day.
+This repository is a collection of my solutions to daily code challenges from <a href="https://www.codewars.com/">Codewars</a>. It is organized by levels or "kyu" - the lower the kyu number, the harder the challenge. Currently in the top 14% globally, pushing solutions every day.
 
 **Link to profile:** https://www.codewars.com/users/mfscifly
 
