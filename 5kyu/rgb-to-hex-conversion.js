@@ -11,6 +11,26 @@
 // 0, 0, 0       --> "000000"
 // 148, 0, 211   --> "9400D3"
 
+// Refactored solution:
+
+function rgb(r, g, b) {
+    let hex = '';
+    let rgb = [r,g,b];
+    rgb.forEach(n => {
+        if (n<0){
+            hex += '00';
+        } else if (n>255){
+            hex += 'FF';
+        } else {
+            let first = parseInt(n/16).toString(16).toUpperCase();
+            let second = (n%16).toString(16).toUpperCase();
+            hex += first;
+            hex += second;
+        }
+    })
+    return hex;
+}
+
 // My solution:
 
 function rgb(r, g, b) {
