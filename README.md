@@ -1,25 +1,20 @@
 # Codewars
-This repository is a collection of my solutions to daily code challenges from <a href="https://www.codewars.com/">Codewars</a>. It is organized by levels or "kyu" - the lower the kyu number, the harder the challenge. With over 500 completed challenges, I am in the top 8% globally - pushing solutions every day.
 
-**Link to profile:** https://www.codewars.com/users/mfscifly
+How I learned to code: one challenge every morning, solved by hand in JavaScript. Between October 2023 and June 2024 I finished 500+ [Codewars](https://www.codewars.com/users/mfscifly) challenges and reached the top 8% globally.
+
+Solutions are organized by "kyu", the Codewars difficulty level. The lower the number, the harder the challenge.
 
 ![codewars recording](https://github.com/mfscifly/codewars/assets/138173334/edc13675-2c3e-4ac8-a27c-9a9c46a2f47e)
 
-## How It's Made:
+## How I worked
 
-**Tech used:** JavaScript
+Solve it first, then refactor for speed and readability, then study how others solved it. Sometimes I wrote a second solution just to practise thinking about the problem another way.
 
-## Optimizations:
+## What it taught me
 
-Once the challenge is solved, I will refactor my code to be more efficient and readable. I will also study others' answers to the problem. At times I will provide a second solution to practice thinking about problems in a different way.
+Consistency keeps problem solving sharp, and looking up the method you don't know yet is part of the fun. These days I build with Claude Code, and the habit of reading code closely is what I lean on most.
 
-## Lessons Learned:
+## What I build now
 
-Consistency is important for keeping your problem solving and analytical skills sharp. Continuously learning is very important to me, so every morning I complete one of these challenges. At times they are tricky and require me to look up a new method, and that is part of the fun!
-
-## Examples:
-Take a look at these other projects:
-
-**Sumas Prairie Gas Tools:** https://github.com/mfscifly/sumas-prairie-gas-calculator
-
-**Portfolio:** https://github.com/mfscifly/portfolio
+- **[Gas Run](https://github.com/mfscifly/gas-run):** live Canada-US border waits and pump savings ([live site](https://gasrun.netlify.app))
+- **[Windowsill](https://github.com/mfscifly/windowsill):** a calm, phone-first house plant tracker ([demo](https://mfscifly.github.io/windowsill/demo/))
